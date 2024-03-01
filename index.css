@@ -1,0 +1,7 @@
+/* Estilos para las tarjetas de personajes */
+.character-card {
+	border: 1px solid #ddd;
+	padding: 16px;
+	margin-bottom: 16px;
+	background-color: #f9f9f9;
+}
